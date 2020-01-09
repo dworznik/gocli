@@ -31,5 +31,5 @@ brews:
     name: gocli
     github:
       owner: dworznik
-      name: homebrew
+      name: homebrew-tap
     folder: Formula
