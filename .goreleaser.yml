@@ -26,3 +26,9 @@ changelog:
     exclude:
     - '^docs:'
     - '^test:'
+brews:
+  -
+    name: gocli
+    github:
+      owner: dworznik
+      name: homebrew
